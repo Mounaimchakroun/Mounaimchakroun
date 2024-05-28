@@ -30,7 +30,7 @@
 
    
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,wordpress,godot,vim,vscode,powershell,cmake,linux,windows,arduino" />
+    <img src="https://skillicons.dev/icons?i=git,github,wordpress,linkedin,godot,vim,vscode,powershell,cmake,latex,linux,windows,arduino" />
   </a>
 
   
