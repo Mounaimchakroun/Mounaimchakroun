@@ -12,12 +12,11 @@
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
-
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- I am currently a first-year computer engineering student at the UPC.
+- Computer science and hardware design and development enthusiast.
+- Currently learning RISC-V.
+- My dream is to work as a microprocessor designer.
+- All my code is free, so if you're interested, go ahead.
 
 <br><br>
 
