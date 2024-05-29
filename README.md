@@ -2,7 +2,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=31F742&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi,+I'm+Mounaim+Chakroun+🐢;Computer+Science+Student;Active+Learner/Researcher;Hardware+Design+and+Development+Enthusiast"></a>
 
 
-***Hi,*** 🐢
+***Hi,*** 
   
 - **I am currently a first-year computer engineering student at the UPC.**
 - **Computer science and hardware design and development enthusiast.**
