@@ -4,7 +4,7 @@
 
 ***Hi,*** 🐢
   
-- **I am currently a first-year computer engineering student at the UPC.**
+- **I am currently a third-year computer engineering student at the UPC.**
 - **Computer science and hardware design and development enthusiast.**
 - **Currently learning RISC-V.**
 - **My dream is to work as a microprocessor designer.**
