@@ -4,7 +4,7 @@
 
 ***Hi,*** 🐢
   
-- **I am currently a third-year computer engineering student at the UPC.**
+- **I am currently a third-year computer engineering student at the FIB UPC.**
 - **Computer science and hardware design and development enthusiast.**
 - **Currently learning RISC-V.**
 - **My dream is to work as a microprocessor designer.**
@@ -22,7 +22,7 @@
 
 - **Tools**:
 
-  [![Tools](https://skillicons.dev/icons?i=git,github,wordpress,godot,vim,vscode,powershell,cmake,latex,arduino&perline=5)](https://skillicons.dev)
+  [![Tools](https://skillicons.dev/icons?i=git,github,wordpress,vim,vscode,powershell,make,latex,arduino&perline=5)](https://skillicons.dev)
   
 - **OS**:
 
