@@ -22,7 +22,7 @@
 
 - **Tools**:
 
-  [![Tools](https://skillicons.dev/icons?i=git,github,wordpress,vim,vscode,powershell,make,latex,arduino&perline=5)](https://skillicons.dev)
+  [![Tools](https://skillicons.dev/icons?i=git,github,wordpress,vim,vscode,powershell,cmake,latex,arduino&perline=5)](https://skillicons.dev)
   
 - **OS**:
 
