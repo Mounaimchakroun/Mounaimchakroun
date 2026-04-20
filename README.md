@@ -25,8 +25,9 @@
   
   <br>
 
-  ![Quartus](https://img.shields.io/badge/Quartus-0071C5?style=for-the-badge&logo=logoColor=white)
+  ![Quartus](https://img.shields.io/badge/Intel_Quartus-0071C5?style=for-the-badge&logo=intel&logoColor=white)
   ![ModelSim](https://img.shields.io/badge/ModelSim-5C5C5C?style=for-the-badge)
+  ![Verilator](https://img.shields.io/badge/Verilator-3C4C5D?style=for-the-badge)
   
 - **OS**:
 
