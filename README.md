@@ -1,10 +1,10 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=31F742&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi,+I'm+Mounaim+Chakroun+🐢;Computer+Science+Student;Hardware+Specialization;Active+Learner/Researcher;Hardware+Design+and+Development+Enthusiast" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=31F742&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi,+I'm+Mounaim+Chakroun;Computer+Science+Student;Hardware+Specialization;Active+Learner/Researcher;Hardware+Design+and+Development+Enthusiast" alt="Typing SVG">
   </a>
 </p>
 
-***Hi,*** 🐢
+***Hi,***
   
 - **I am currently a third-year computer engineering student at the FIB UPC.**
 - **Computer science and hardware design and development enthusiast.**
