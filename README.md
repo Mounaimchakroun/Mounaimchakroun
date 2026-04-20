@@ -15,7 +15,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" align="center"> Skills
 
 - **Languages**:
-    - (https://skillicons.dev/icons?i=C)](https://skillicons.dev)
+    - [![C and C++](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)
     - **SystemVerilog**
     - **VHDL**
 
@@ -25,7 +25,7 @@
   
   <br>
 
-  ![Quartus](https://img.shields.io/badge/Quartus-0071C5?style=for-the-badge&logo=logoColor=white)
+  ![Quartus](https://img.shields.io/badge/Intel_Quartus-0071C5?style=for-the-badge&logo=intel&logoColor=white)
   ![ModelSim](https://img.shields.io/badge/ModelSim-5C5C5C?style=for-the-badge)
   ![Verilator](https://img.shields.io/badge/Verilator-3C4C5D?style=for-the-badge)
   
